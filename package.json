@@ -1,0 +1,12 @@
+{
+  "name": "@aneron/power-confirm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Desired power is not truth until the device confirms it. A failed ON claim forces OFF.",
+  "license": "MIT",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
